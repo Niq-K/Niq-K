@@ -1,8 +1,6 @@
 # Oi eu sou Nick, graduando na UFU em Sistemas de Informação!
 🌟 Hi I'm Nick, graduating from UFU in Information Systems!
 
-- 🔭 Estou a procura de estágio
--  I'm looking for an internship
 - 🌱 Estudando Typescript
 -  Learning Typescript
 - 😄 Pronouns: ele/dele (he/him)
